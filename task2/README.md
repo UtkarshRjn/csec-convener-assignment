@@ -12,15 +12,15 @@ solution*
 secrets*
 ```
 
-I never used .gitignore so was unaware of it. Ok so it was a file on @jsahil730 's PC. I thought we had to ask for this file for this task and run [this](https://github.com/geekyuttu/csec-convener-assignment/blob/main/task2/challenge.jl) code to get the flag as output. After all this was more like exploring github and we had to ping OofNoicety#1900 when we get stuck :smiley: . 
+I never used .gitignore so was unaware of it. Ok so it was a file on @jsahil730 's PC. I thought we had to ask for this file for this task and run [this](https://github.com/geekyuttu/csec-convener-assignment/blob/main/task2/challenge.jl) code to get the flag as output. After all, this was more like exploring github and we had to ping OofNoicety#1900 when we get stuck :smiley: . 
 
-Ok that was not the case then I read the comment at the end. Why the colour of the comment matches with the dark background of github :weary: . Ok it was over now. I run the code on jupyter-notebook to know what each line way doing then wrote [this](https://github.com/geekyuttu/csec-convener-assignment/blob/main/task2/script.py) script to get this.
+Ok that was not the case then I read the comment at the end. Why the colour of the comment matches with the dark background of github :weary: (I didn't get what to do earlier because I hadn't read the comments). So, it was over now. I run the code on jupyter-notebook to know what each line was doing then wrote [this](https://github.com/geekyuttu/csec-convener-assignment/blob/main/task2/script.py) script to get this.
 
 ```bash
 ['f', 'l', 'a', 'g', '{', 'm', 'u', '1', 't', 'i', 'p', 'l', '3', '_', 'd', 'i', '5', 'p', '4', 't', 'c', 'h', '_', '1', 's', '_', '4', 'w', 'e', '5', '0', 'm', 'e', '}']
 ```
 
-Meanwhile I was also searching for random bullshits for task 3 and came to know about leetspeak. So numbers between letters didn't surprised me. 
+Meanwhile I was also searching for random bullshits for task 3 and came to know about leetspeak. So numbers between letters didn't surprise me. 
 
 ![Screenshot from 2021-07-02 18-30-21](https://github.com/geekyuttu/csec-convener-assignment/blob/main/task2/Screenshot%20from%202021-07-02%2018-30-21.png)
 
