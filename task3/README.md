@@ -14,7 +14,7 @@ There was one more possibilty
 
  Ok so we simply had to decode this. I tried things like Morse decoding , base64, ASCII , hex  on both these binary data but got a good result with ASCII only. I used [this](https://www.rapidtables.com/convert/number/binary-to-ascii.html) online converter to check it , first one was forming 4ud1o_i5_n1c3. I also made [this](https://github.com/geekyuttu/csec-convener-assignment/blob/main/task3/binary_to_ascii.py) code  just for sake.
 
-So the flag was **audio_is_nice** (leetspeak)
+So the flag was `audio_is_nice` (leetspeak)
 
 I still didn't understand why the second audio had 102 (not divisible by 8) binary digits and hint given was ASCII :smirk: ​
 
