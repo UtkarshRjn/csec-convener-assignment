@@ -2,7 +2,7 @@
 
 Ahh!!  Julia, new language:persevere:. First I set up the environment for Julia on my PC, read tutorials to know basic syntax. Then run the code, without giving a shit about what it was. Wait what?? secrets.jl?? FLAG is defined there??? First I googled it :stuck_out_tongue: wishing it might be some standard file. [This](https://geniejl.readthedocs.io/en/latest/documentation/14--The_Secrets_File/) was ranked first.
 
-![Screenshot from 2021-07-02 18-11-54](/home/utkarsh/Pictures/Screenshot from 2021-07-02 18-11-54.png)
+![Screenshot from 2021-07-02 18-11-54](https://github.com/geekyuttu/csec-convener-assignment/blob/main/task2/Screenshot%20from%202021-07-02%2018-11-54.png)
 
 blah... blah.. something something  **.gitignore** ?? There was a file [.gitignore](https://github.com/CSEA-IITB/Assignment/blob/main/.gitignore) in the repo and it had secrets :innocent: . 
 
@@ -22,6 +22,6 @@ Ok that was not the case then I read the comment at the end. Why the colour of t
 
 Meanwhile I was also searching for random bullshits for task 3 and came to know about leetspeak. So numbers between letters didn't surprised me. 
 
-![Screenshot from 2021-07-02 18-30-21](/home/utkarsh/Pictures/Screenshot from 2021-07-02 18-30-21.png)
+![Screenshot from 2021-07-02 18-30-21](https://github.com/geekyuttu/csec-convener-assignment/blob/main/task2/Screenshot%20from%202021-07-02%2018-30-21.png)
 
 So the flag for task 2 was **multiple_dispatch_is_awesome**.
