@@ -6,7 +6,7 @@ The task stared with searching [this](https://github.com/jsahil730/Assignment/tr
 
 Now we had to read commits so I cloned the repo and opened it in sublime merge. It's easier to read changes made to repo there​ :grin: ​. 
 
-![Screenshot from 2021-07-02 17-47-56](/home/utkarsh/Pictures/Screenshot from 2021-07-02 17-47-56.png)
+![Screenshot from 2021-07-02 17-47-56](https://github.com/geekyuttu/csec-convener-assignment/blob/main/task1/Screenshot%20from%202021-07-02%2017-47-56.png)
 
 Found this deleted file **file.md** this part of the flag was easier **main**.
 
