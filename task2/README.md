@@ -4,7 +4,7 @@ Ahh!!  Julia, new language:persevere:. First I set up the environment for Julia 
 
 ![Screenshot from 2021-07-02 18-11-54](https://github.com/geekyuttu/csec-convener-assignment/blob/main/task2/Screenshot%20from%202021-07-02%2018-11-54.png)
 
-blah... blah.. something something  **.gitignore** ?? There was a file [.gitignore](https://github.com/CSEA-IITB/Assignment/blob/main/.gitignore) in the repo and it had secrets :innocent: . 
+blah... blah.. something something  `.gitignore` ?? There was a file [.gitignore](https://github.com/CSEA-IITB/Assignment/blob/main/.gitignore) in the repo and it had secrets :innocent: . 
 
 ```
 .vscode/
@@ -24,4 +24,4 @@ Meanwhile I was also searching for random bullshits for task 3 and came to know 
 
 ![Screenshot from 2021-07-02 18-30-21](https://github.com/geekyuttu/csec-convener-assignment/blob/main/task2/Screenshot%20from%202021-07-02%2018-30-21.png)
 
-So the flag for task 2 was **multiple_dispatch_is_awesome**.
+So the flag for task 2 was `multiple_dispatch_is_awesome`.
